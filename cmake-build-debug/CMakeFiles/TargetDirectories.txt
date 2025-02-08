@@ -1,0 +1,3 @@
+/Users/BryanArgueta/CLionProjects/CasinoCardDealer/cmake-build-debug/CMakeFiles/CasinoCardDealer.dir
+/Users/BryanArgueta/CLionProjects/CasinoCardDealer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/BryanArgueta/CLionProjects/CasinoCardDealer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
